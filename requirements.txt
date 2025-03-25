@@ -1,0 +1,8 @@
+pytesseract
+Pillow
+pdfplumber
+transformers
+torch
+datasets
+fastapi
+uvicorn
