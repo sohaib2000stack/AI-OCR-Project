@@ -1,11 +1,3 @@
-### **🚀 Updated `README.md` (Without Unimplemented Features)**  
-
-I have removed the two lines about converting scanned PDFs and saving extracted text. Below is your **updated README.md**.  
-
----
-
-## **📌 README.md (Updated Version)**
-```md
 # 📄 AI-Powered OCR & PDF Processing Project 🚀
 
 ## 📌 Overview
